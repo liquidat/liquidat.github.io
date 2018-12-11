@@ -1,13 +1,14 @@
-= liquidat's Blog
-
 {:toc}
 
-== Blogging with Github Pages and Asciidoc
+# liquidat's Blog
+
+
+## Blogging with Github Pages and Asciidoc
 
 
 Lorem ipsum!
 
 
-== What is going on?
+## What is going on?
 
 fsdafjkslafs
