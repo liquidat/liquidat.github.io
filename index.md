@@ -1,14 +1,13 @@
-//
-// file: index.adoc
-//
 = liquidat's Blog
-:sectnums:
-:toc: left
-:toclevels: 3
 
-:toc!:
+{:toc}
 
 == Blogging with Github Pages and Asciidoc
 
 
 Lorem ipsum!
+
+
+== What is going on?
+
+fsdafjkslafs
