@@ -1,10 +1,10 @@
 * This will be replcaed by the ToC
 {:toc}
 
-# liquidat's Blog
+# Test thing
 
 
-## Blogging with Github Pages and Asciidoc
+## Running with github
 
 
 Lorem ipsum!
