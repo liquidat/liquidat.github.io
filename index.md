@@ -1,3 +1,8 @@
+---
+layout: post
+title: This is my title
+---
+
 * This will be replcaed by the ToC
 {:toc}
 
