@@ -13,6 +13,12 @@ title: This is my title
 
 Lorem ipsum!
 
+<!-- {% raw %} -->
+```yaml
+Here comes a variable {{ variable1 }}
+```
+<!-- {% endraw %} -->
+
 
 ## What is going on?
 
